@@ -12,12 +12,12 @@ export function WelcomeSection() {
             TO VCAD
           </h1>
 
-          <p className="text-md leading-relaxed w-full opacity-90 text-justify mb-6">
+          <p className="text-lg leading-relaxed w-full opacity-90 mb-6">
             Our team at Victoria College of Arts and Design is passionate about
             creating innovative projects and generating new ideas. We work with
-            a collaborative, multidisciplinary and entrepreneurial approach.
-            Located in London's Design District, we have valuable connections
-            within our creative community.
+            a variety of experts and esteemed companies using a collaborative
+            approach. Located in London's Design District, we have valuable
+            connections within our industry. Search our latest courses.
           </p>
 
           <Button size={"lg"}>Apply Now</Button>
