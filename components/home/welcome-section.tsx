@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export function WelcomeSection() {
   return (
-    <section className="text-primary-foreground px-6">
+    <section className="text-primary-foreground px-6 mt-10">
       <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-2 items-center">
         <div className="">
           <h1 className="text-6xl lg:text-9xl font-extrabold leading-none tracking-tight mb-8">
@@ -16,7 +16,7 @@ export function WelcomeSection() {
             Our team at Victoria College of Arts and Design is passionate about
             creating innovative projects and generating new ideas. We work with
             a variety of experts and esteemed companies using a collaborative
-            approach. Located in London's Design District, we have valuable
+            approach. Located in London&apos;s Design District, we have valuable
             connections within our industry. Search our latest courses.
           </p>
 
