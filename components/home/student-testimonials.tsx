@@ -36,9 +36,9 @@ export function StudentTestimonials() {
               {/* Content on top of overlay */}
               <div className="relative z-10 h-full flex flex-col justify-center items-center text-center text-white">
                 <p className="text-xl lg:text-2xl font-bold mb-6">
-                  "LOREM IPSUM
+                  &ldquo;LOREM IPSUM
                   <br />
-                  LOREM IPSUM"
+                  LOREM IPSUM&rdquo;
                 </p>
               </div>
             </div>
